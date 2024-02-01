@@ -1,16 +1,9 @@
-# first_app
-
-A new Flutter project.
+# Dice game app built with flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is one of my first projects built wiht flutter. Gained knowlege: 
+ - State managment;
+ - Statless vs Stateful widgets;
+ - Breaking big widgets into smaller ones;
+ - final vs const variables; 
